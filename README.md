@@ -1,4 +1,4 @@
-# employee-manager-postgreSQL
+# Employee-Manager-postgreSQL
 
 ## Walkthrough video
 https://drive.google.com/file/d/1k13tsZNGdSW5kL_vSqcwvSW2koNI9DPa/view
